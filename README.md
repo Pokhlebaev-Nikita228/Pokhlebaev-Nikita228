@@ -1,5 +1,4 @@
-### Памагити пажаласта 👋
-
+### Я люблю GoLang
 <!--
 **Pokhlebaev-Nikita228/Pokhlebaev-Nikita228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
